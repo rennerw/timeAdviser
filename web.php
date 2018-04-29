@@ -20,6 +20,6 @@ Auth::routes();
 Route::group(['middleware' => 'auth'], function()
 {
 	// TimeSheet
-	Route::resource('timesheet', 'User\TimeSheetController');
+	Route::resource('timesheet', 'TimeSheetController');
 
 });
