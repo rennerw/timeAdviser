@@ -1,5 +1,5 @@
 # timeAdviser
-Conta o tempo total e o tempo que o usuário/funcionario em uma página 
+Conta o tempo total e o tempo que o usuário/funcionario digita em uma página 
 
 Esse é um projeto sem fins lucrativos desenvolvido por mim utilizando jquery, ajax, laravel (Controller, Migration e Route) e php.
 ---------------------------------------------------------------------------------------------------------------------
